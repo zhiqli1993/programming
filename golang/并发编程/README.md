@@ -193,6 +193,7 @@ go test -cover
 - [Go并发编程模式](https://github.com/golang/go/wiki/LearnConcurrency)
 
 ### 在线资源
+
 - [Go Concurrency Patterns (Video)](https://www.youtube.com/watch?v=f6kdp27TYZs)
 - [Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns)
 - [Go Race Detector](https://golang.org/doc/articles/race_detector.html)
